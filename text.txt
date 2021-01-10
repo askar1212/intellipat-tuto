@@ -1,2 +1,2 @@
-Hi, I am doing jenkins continous integration
+Hi, I am doing jenkins continous integration automatically
 
